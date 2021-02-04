@@ -147,7 +147,15 @@ padding-left: 1.5rem;
 .show-links{
  height: 10rem;
 }
-
+footer p{
+ text-align: center;
+ margin-top: 35rem;
+ color: white;
+}
+footer{
+ background: gray;
+ padding-bottom: 2rem;
+}
 /*
 =============== 
 Media queries
